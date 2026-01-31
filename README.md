@@ -55,9 +55,7 @@ The effectiveness of implemented prevention strategies can be measured using:
 - Continuous model performance monitoring  
 - A/B testing of fraud prevention rules  
 
-
-
-## 🛠️ Technologies Used
+Technologies Used
 - Python  
 - Pandas, NumPy  
 - Matplotlib, Seaborn  
